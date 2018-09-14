@@ -1,0 +1,30 @@
+
+.APP {
+  padding-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.Title{
+  text-align: center;
+  font-size: 36;
+  font-weight: bolder;
+}
+
+.inp{
+  margin: 5px;
+}
+
+.remind-form{
+  padding: 5px;
+}
+.delbutton{
+  float: right;
+  padding: 5px;
+}
+.list-item{
+  display: inline;
+}
+.del{
+  margin : 5px;
+}
